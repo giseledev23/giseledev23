@@ -1,7 +1,9 @@
 <h1 align="center">👋 Olá, eu sou Gisele Cristina</h1>
-<h3 align="center">💻 Estudante de Programação | 🔭 Descobrindo uma nova paixão por Tecnologia</h3>
+<h3 align="center">💻 Desenvolvedora de Software Back-End 
+ 
+  🔭 JavaScript | Node.js | SQL | Git | GitHub | VS Code | Linguagem C</h3>
 
-- 🌱 Atualmente estou aprendendo **Desenvolvimento de Software, com foco em Backend, na Cubos Academy**.
+- 🌱 Descobrindo uma nova paixão por Tecnologia.
 
 - 💬 Sinta-se à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansiosa para ouvir de você!
 
